@@ -1,0 +1,45 @@
+* {
+    text-align: center;
+    margin: 0 auto;
+    font-size: 86px
+}
+
+body {
+    background-color: #ff6663
+}
+
+p {
+    font-size: 46px;
+    color: solid green;
+}
+
+img {
+    width: 27%;
+    border: 17px solid lightblue;
+}
+
+.text{
+    width:39%;
+    border: 42px;
+    color: solid red
+}
+
+.container {
+    border: 1px solid green;
+    width: 90%;
+}
+
+.photo {
+    float: centre;
+    width: 30%;
+}
+
+img {
+    width: 74%;
+    border: 1px dashed blue;
+}
+
+#special {
+    border: 1px solid black;
+    width: 50%;
+}
